@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.matrix_ms" />
+          <option value="main.i_size" />
+          <option value="main.sum_list" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
